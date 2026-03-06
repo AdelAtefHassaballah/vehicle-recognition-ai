@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual environments
+venv/
+.env/
+
+# model weights
+*.pt
+
+# database
+*.db
+
+# output files
+output_result.mp4
+
+# snapshots
+app/data/snapshots/
+
+# OS
+.DS_Store
+Thumbs.db
