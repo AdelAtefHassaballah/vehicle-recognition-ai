@@ -1,6 +1,4 @@
 from app.main import run
 
 if __name__ == "__main__":
-    # 0 = webcam
-    # or use a video path like: "test_videos/station.mp4"
-    run('YTDown.com_Shorts_Mumbai-Evening-traffic-jam-Car-horn-ster_Media_K-3qSmt8Qgg_001_1080p.mp4')
+    run('YTDown.com_YouTube_Traffic-Flow-In-The-Highway-4K-Stock-Vid_Media_lfYYtQ1Ah04_001_1080p.mp4')
